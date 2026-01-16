@@ -767,4 +767,3 @@ The future of music recommendation is not just personalization, but emotion-awar
 
 Thank you for exploring VibeCheck! 🎵
 
-Colab paid products - Cancel contracts here
