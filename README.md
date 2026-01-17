@@ -1,4 +1,7 @@
 # VibeCheck-Emotion-Based-Music-Recommendation-with-Reinforcement-Learning
+
+**COLAB LINK : https://colab.research.google.com/drive/1lwnLExpBOPG1oh5mSpdeJ5k28-2spLEo?usp=sharing**
+
 A mood-based music recommendation engine that understands your emotions and curates the perfect soundtrack. 
 Vibe Music Matcher analyzes your mood description and returns songs that feel right for that emotion. Instead of searching for songs with matching titles, it interprets the vibe and finds music that captures that emotional state.
 
